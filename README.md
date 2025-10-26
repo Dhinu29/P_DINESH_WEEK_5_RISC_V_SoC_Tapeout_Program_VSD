@@ -15,7 +15,7 @@ This week’s objective was to install and configure OpenROAD on a Linux system 
 
 - To document issues, dependencies, and resolutions.
 
- # 🧩 4. Installation Steps
+ # 🧩 3. Installation Steps
 ```
 #steps followed:
 
@@ -38,3 +38,8 @@ cd build
 cmake ..
 
 ```
+
+
+<img width="1918" height="880" alt="openroad" src="https://github.com/user-attachments/assets/44ea40a4-454f-419e-8a4f-ac79fe68fc9d" />
+<img width="1918" height="931" alt="openroad_example" src="https://github.com/user-attachments/assets/1e1243c8-226e-45ba-bf8d-54228d6336d8" />
+
